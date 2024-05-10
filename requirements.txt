@@ -1,4 +1,2 @@
 google-generativeai
-scholarly
-semantic-scholar
-spacy
+
